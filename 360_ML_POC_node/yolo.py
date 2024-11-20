@@ -1,0 +1,1 @@
+!yolo task=detect mode=predict conf=0.25 save=True model="/Users/Game_Dev_25/runs/detect/train5/weights/best.pt" source="/Users/Game_Dev_25/weights/Test-Tarp_dataset.v3i.yolov11/train/images/7Z3A0316-Brow-and-Mushrooms-2_jpg.rf.663bee7159913a5286f139611f36877e.jpg"
